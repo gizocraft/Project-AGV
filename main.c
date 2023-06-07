@@ -17,7 +17,7 @@
 
 void init(void)
 {
-    init_h_bridge();
+    init_h_bridge(); //dit moet hbrug 2 zijn NOTITTIE
     init_h_bridge_1();
     init_h_bridge_2();
 
